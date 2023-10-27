@@ -1,3 +1,3 @@
-# base-typescript-template
+# dockerizing-your-app
 
-Repository containing my basic configuration for new (Typescript-based) NodeJS projects.
+Repository containing a simple NodeJS application that will be "dockerized" during the Web & Analytics knowledge lecture.
